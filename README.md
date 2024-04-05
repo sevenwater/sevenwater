@@ -1,4 +1,6 @@
 ### Hi there 👋
+There are still many things worth learning.
+- 👀 I'm still trying to find the meaning of my existence. 
 
 <!--
 **sevenwater/sevenwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
